@@ -19,7 +19,7 @@
 
 Obs 1.: A biblioteca NLTK de Processamento de Linguagem Natural já possui essas funções integradas. 
 
-Obs 2.: Meu código é uma adaptação do código apresentado em aula sobre classes do  [curso Python for Data Sciente](https://cognitiveclass.ai/courses/python-for-data-science)
+Obs 2.: Meu código é uma adaptação do código apresentado em aula sobre classes do  [curso Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 
 
 
